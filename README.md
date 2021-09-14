@@ -67,7 +67,7 @@
 </details>
 
 <details>
-  <summary>:wrench:&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+  <summary>:wrench:&nbsp;&nbsp;&nbsp;<b>Github Stats</b></summary>
   <br/>
   <p align='center'>
     <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Timex19&show_icons=true&count_private=true&theme=dark" width="355"></a>
@@ -75,13 +75,9 @@
    </p>  
 </details>
 
-Github Repos
-
 <details>
-<summary>:wrench:&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+<summary>:wrench:&nbsp;&nbsp;&nbsp;<b>GitHub Repositories</b></summary>
   <br/>
-  <p align='center'>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
-  </p>  
 </details>
