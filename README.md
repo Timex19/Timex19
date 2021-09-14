@@ -74,3 +74,14 @@
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timex19&layout=compact&theme=dark&hide=jupyter%20notebook" width="350"></a>
    </p>  
 </details>
+
+Github Repos
+
+<details>
+<summary>:wrench:&nbsp;&nbsp;&nbsp;<b>GitHub Stats</b></summary>
+  <br/>
+  <p align='center'>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=PackageTemplate&show_owner=true)](https://github.com/anandmainali/PackageTemplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anandmainali&repo=Foods-Ecommerce&show_owner=true)](https://github.com/anandmainali/Foods-Ecommerce)
+  </p>  
+</details>
