@@ -12,14 +12,12 @@
   I love food and travel. I think There's no better way to understand a culture than through its food. Also I like Sport, particularly Football :soccer: and Basketball :basketball:.
 </p>
 
-<details>
-<summary>:media:&nbsp;&nbsp;&nbsp;<b>Social Platforms</b></summary>
+<h5>Social Platforms</h5>
 <p align='center'>
   <a href="https://twitter.com/Timex19"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/Timex19/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com/@Timex_19"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
-</details>
 
 <details>
 <summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Programming Skills</b></summary>
