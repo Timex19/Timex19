@@ -38,6 +38,7 @@
   </p>
 <h5> Databases</h5>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%745DF67D.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 <h5> Hosting</h5>
 <p>
