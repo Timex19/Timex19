@@ -43,6 +43,7 @@
 <h5> Hosting</h5>
 <p>
   <img alt="Netlify" src="https://img.shields.io/badge/netlify%20-%23039BE5.svg?&style=for-the-badge&logo=netlify"/>
+  <img alt="Vercel" src="https://img.shields.io/badge/vercel%20-%23323330.svg?&style=for-the-badge&logo=vercel"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 <h5>Version Control</h5>
