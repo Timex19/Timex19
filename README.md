@@ -27,12 +27,12 @@
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
   <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="JavaScript" src="https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=javascript_react_aws_html_css_python_java_nodejs_golang_elixir_mysql_postgres_mongodb_redis_aws_react_express_flask_other"/>
   <img alt="jQuery" src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-  [![ReactJS_MongoDB_NodeJS_HTML_JavaScript_CSS_Python_Express_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=ReactJS_MongoDB_NodeJS_HTML_JavaScript_CSS_Python_Express_)](https://pimp-my-readme.webapp.io)
 </p>
+   [![ReactJS_MongoDB_NodeJS_HTML_JavaScript_CSS_Python_Express_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=ReactJS_MongoDB_NodeJS_HTML_JavaScript_CSS_Python_Express_)](https://pimp-my-readme.webapp.io)
 <h5> Databases</h5>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
