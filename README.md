@@ -1,5 +1,4 @@
 <h1 align='center'> Hi there 👋, I'm Ojo Timilehin </h1>
-[![Hey there, I'm Ojo Timilehin!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f44b&text=Hey%2520there%252C%2520I%27m%2520Ojo%2520Timilehin%21)](https://pimp-my-readme.webapp.io)
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="800"/>
 <p>
   I'm a Business Administrator and a software developer from Nigeria 🇳🇬.
@@ -25,7 +24,13 @@
 <summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Programming Skills</b></summary>
 
 <h5>Programming Languages</h5>
-[![ReactJS_MongoDB_NodeJS_HTML_JavaScript_CSS_Python_Express_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=ReactJS_MongoDB_NodeJS_HTML_JavaScript_CSS_Python_Express_)](https://pimp-my-readme.webapp.io)
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+</p>
 <h5> Databases</h5>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
