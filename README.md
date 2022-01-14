@@ -33,7 +33,8 @@
 </p>
 <h5>Frameworks</h5>
   <p>
-    <img alt="React" src="https://img.shields.io/badge/React%20-%2300599C.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+    <img alt="ReactJs" src="https://img.shields.io/badge/React%20-%2300599C.svg?&style=for-the-badge&logo=react&logoColor=white"/>
+    <img alt="NodeJs" src="https://img.shields.io/badge/Node%20-%2300599C.svg?&style=for-the-badge&logo=node&logoColor=white"/>
   </p>
 <h5> Databases</h5>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
