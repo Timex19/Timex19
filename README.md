@@ -42,8 +42,8 @@
 </p>
 <h5> Hosting</h5>
 <p>
+  <img alt="Netlify" src="https://img.shields.io/badge/netlify%20-%23039BE5.svg?&style=for-the-badge&logo=netlify"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
 </p>
 <h5>Version Control</h5>
 <p>
