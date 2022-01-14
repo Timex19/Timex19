@@ -34,7 +34,7 @@
 <h5>Frameworks</h5>
   <p>
     <img alt="ReactJs" src="https://img.shields.io/badge/React%20-%2300599C.svg?&style=for-the-badge&logo=react&logoColor=white"/>
-    <img alt="NodeJs" src="https://img.shields.io/badge/node%20-%00FF00.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img alt="NodeJs" src="https://img.shields.io/badge/node%20-%745DF67D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   </p>
 <h5> Databases</h5>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
