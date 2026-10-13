@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 198" role="img" aria-labelledby="title">
+<title id="title">Let&#x27;s build something useful. Open to remote and international backend, full-stack, mobile and cloud roles and collaborations.</title>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#15263D"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#60A5FA"/></linearGradient></defs>
+<rect width="1000" height="198" rx="22" fill="url(#bg)"/>
+<rect x="1" y="1" width="998" height="196" rx="21" fill="none" stroke="#334155"/>
+<text x="36" y="62" fill="#F8FAFC" font-size="32" font-weight="700" font-family="Arial, Helvetica, sans-serif">LET&#x27;S BUILD SOMETHING USEFUL.</text><text x="36" y="106" fill="#5EEAD4" font-size="22" font-weight="400" font-family="Arial, Helvetica, sans-serif">Backend  ·  Full-stack  ·  Mobile  ·  Cloud</text><path d="M36 132H964" stroke="#334155"/><text x="36" y="167" fill="#CBD5E1" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif">OPEN TO REMOTE ROLES, INTERNATIONAL TEAMS &amp; COLLABORATIONS</text></svg>
