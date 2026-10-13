@@ -21,7 +21,7 @@
 
 ## About me
 
-I'm a **Senior Software Engineer with 5+ years of experience** building web applications, cross-platform mobile products, and dependable backend services. My core stack is **TypeScript, Node.js, React, and React Native**, with cloud experience across **AWS, Microsoft Azure, and Google Cloud**.
+I'm a **Senior Software Engineer with 6+ years of experience** building web applications, cross-platform mobile products, and dependable backend services. My core stack is **TypeScript, Node.js, React, and React Native**, with cloud experience across **AWS, Microsoft Azure, and Google Cloud**.
 
 My work spans **healthcare, payments, subscriptions, and music applications**. With a background in **Business Administration**, I connect engineering decisions to user needs and business outcomes, from the first interface to deployment and ongoing support.
 
