@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 208" role="img" aria-labelledby="title">
-<title id="title">MyCyberClinics. Connecting patients, providers, and care operations.</title>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#15263D"/></linearGradient>
-<linearGradient id="accent"><stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#60A5FA"/></linearGradient></defs>
-<rect width="1000" height="208" rx="22" fill="url(#bg)"/>
-<rect x="1" y="1" width="998" height="206" rx="21" fill="none" stroke="#334155"/>
-<rect x="28" y="28" width="5" height="144" rx="2" fill="#5EEAD4"/><text x="52" y="48" fill="#5EEAD4" font-size="14" font-weight="700" font-family="Arial, Helvetica, sans-serif">HEALTHCARE / WEB &amp; MOBILE</text><text x="50" y="103" fill="#F8FAFC" font-size="40" font-weight="700" font-family="Arial, Helvetica, sans-serif">MyCyberClinics</text><text x="52" y="140" fill="#CBD5E1" font-size="20" font-weight="400" font-family="Arial, Helvetica, sans-serif">Connecting patients, providers, and care operations.</text><text x="52" y="180" fill="#5EEAD4" font-size="13" font-weight="700" font-family="Arial, Helvetica, sans-serif">TELEHEALTH   /   PAYMENTS   /   ROLE-BASED ACCESS</text><path d="M916 58L944 86L916 114M880 58L852 86L880 114" fill="none" stroke="#334D69" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></svg>
