@@ -25,7 +25,7 @@ I'm a **Senior Software Engineer with 5+ years of experience** building web appl
 
 My work spans **healthcare, payments, subscriptions, and music applications**. With a background in **Business Administration**, I connect engineering decisions to user needs and business outcomes, from the first interface to deployment and ongoing support.
 
-<p><img src="./assets/impact.svg" width="100%" alt="5+ years of experience; 30% application performance improvement; 25%+ faster API responses; applications serving 5,000+ users." /></p>
+<p><img src="./assets/impact.svg" width="100%" alt="6+ years of experience; 30% application performance improvement; 25%+ faster API responses; applications serving 5,000+ users." /></p>
 
 <details>
 <summary><strong>Impact in detail</strong></summary>
