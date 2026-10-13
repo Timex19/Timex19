@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/timex19/"><img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge" alt="Connect on LinkedIn" /></a>
   <a href="mailto:joseph@mycyberclinics.com"><img src="https://img.shields.io/badge/Email-GET_IN_TOUCH-115E59?style=for-the-badge" alt="Email Joseph" /></a>
-  <a href="https://github.com/Timex19?tab=repositories"><img src="https://img.shields.io/badge/GitHub-EXPLORE_MY_WORK-334155?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+  <a href="https://ojo-timilehin.netlify.app/"><img src="https://img.shields.io/badge/GitHub-EXPLORE_MY_WORK-334155?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
 </p>
 
 <p align="center">
